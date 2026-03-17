@@ -14,10 +14,6 @@
 
 <br/>
 
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/netflix-eda?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/netflix-eda?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourusername/netflix-eda?style=flat-square)
-
 </div>
 
 ---
@@ -29,7 +25,6 @@
 - [Key Insights](#-key-insights)
 - [Project Structure](#-project-structure)
 - [Analysis Sections](#-analysis-sections)
-- [Sample Visualizations](#-sample-visualizations)
 - [Getting Started](#-getting-started)
 - [Requirements](#-requirements)
 - [Business Questions Answered](#-business-questions-answered)
@@ -162,19 +157,6 @@ Section 13 — 📝 Summary & Key Insights
 
 ---
 
-## 📸 Sample Visualizations
-
-> *(Screenshots will appear here once the notebook is executed)*
-
-| Genre Distribution | Rating Distribution |
-|:-:|:-:|
-| ![Genre](images/genre_distribution.png) | ![Rating](images/rating_distribution.png) |
-
-| Genre × Year Heatmap | Top 10 Most Popular |
-|:-:|:-:|
-| ![Heatmap](images/genre_year_heatmap.png) | ![Top10](images/top10_popular.png) |
-
----
 
 ## 🚀 Getting Started
 
