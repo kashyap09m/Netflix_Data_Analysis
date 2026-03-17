@@ -94,14 +94,6 @@ netflix-eda/
 ├── 📓 Netflix_EDA_Complete.ipynb   ← Main analysis notebook (13 sections)
 ├── 📄 README.md                    ← Project documentation (this file)
 ├── 📊 netflix.csv                  ← Dataset (place here before running)
-│
-├── 📁 images/                      ← Exported visualization snapshots
-│   ├── genre_distribution.png
-│   ├── rating_distribution.png
-│   ├── language_analysis.png
-│   ├── genre_year_heatmap.png
-│   └── top10_popular.png
-│
 └── 📄 requirements.txt             ← Python dependencies
 ```
 
